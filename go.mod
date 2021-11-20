@@ -1,4 +1,4 @@
 module github.com/soliasq/gogoland
-go 1.12
+go 1.17.3
 require(
 )
